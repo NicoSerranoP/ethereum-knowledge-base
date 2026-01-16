@@ -2,6 +2,13 @@
 
 A knowledge base of all Ethereum related info I read. This repo will be used with LLMs to keep track of all information I read.
 
+## 📑 Quick Links
+
+- **[INDEX.md](INDEX.md)** - Browse all articles by category
+- **[CONTRIBUTING.md](CONTRIBUTING.md)** - Guide for adding new articles
+- **[LLM-GUIDE.md](LLM-GUIDE.md)** - Comprehensive guide for LLM usage
+- **[Article Template](templates/article-template.md)** - Template for new articles
+
 ## 📚 Overview
 
 This repository serves as a structured knowledge base for Ethereum-related articles, papers, and resources. Each article is stored as a markdown file with comprehensive metadata, making it easy for both humans and LLMs to search, understand, and reference the content.
@@ -107,12 +114,14 @@ Use tags to make articles easily discoverable. Common tags include:
 
 ### For LLMs
 
-When querying this knowledge base with an LLM:
+For detailed instructions on how to effectively use and contribute to this knowledge base as an LLM, see the [LLM Usage Guide](LLM-GUIDE.md).
 
-1. Reference the INDEX.md for an overview of available content
+Quick tips:
+1. Start with [INDEX.md](INDEX.md) for an overview of available content
 2. Point to specific article files for detailed information
 3. Use the metadata and tags to find relevant articles
 4. Leverage the structured format for accurate information extraction
+5. Always cite both the KB article and the original source
 
 **Example LLM query:**
 ```
