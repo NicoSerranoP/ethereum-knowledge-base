@@ -79,19 +79,26 @@ This file serves as a central catalog of all articles in the knowledge base. Art
 
 A quick reference of all tags used in the knowledge base:
 
-<!-- Alphabetically organized tag list:
+**Currently Used Tags:**
 - `consensus` - Consensus mechanisms
+- `economics` - Economic aspects and tokenomics
 - `eip` - Ethereum Improvement Proposals
-- `evm` - Ethereum Virtual Machine
+- `eip-1559` - Specific to EIP-1559
+- `ethereum-roadmap` - Ethereum development roadmap
 - `gas` - Gas and transaction fees
+- `merge` - The Merge upgrade
+- `pos` - Proof of Stake
+- `proof-of-stake` - Proof of Stake (alternative tag)
+- `protocol-upgrade` - Protocol upgrades and hard forks
+
+**Common Tags (add as articles are created):**
+- `evm` - Ethereum Virtual Machine
 - `layer2` - Layer 2 scaling solutions
 - `mev` - Maximal Extractable Value
-- `pos` - Proof of Stake
 - `rollup` - Rollup technology
 - `security` - Security-related content
 - `smart-contracts` - Smart contract development
 - `validators` - Validator operations
--->
 
 ---
 

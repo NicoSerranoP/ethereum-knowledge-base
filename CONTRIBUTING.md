@@ -194,7 +194,7 @@ Before submitting your PR, ensure:
 - [ ] File is in the correct category directory
 - [ ] Tags are consistent with existing tags
 - [ ] Summary is clear and informative
-- [ ] KEY concepts are explained
+- [ ] Key concepts are explained
 - [ ] Original source is linked
 - [ ] INDEX.md is updated with a new entry
 - [ ] Total article count is incremented
