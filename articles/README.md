@@ -16,12 +16,10 @@ Files should be named using lowercase with hyphens for spaces:
 ## Organization
 
 Articles can be organized into subdirectories by category:
-- `consensus/` - Consensus mechanisms, validators, etc.
-- `execution/` - EVM, transactions, smart contracts
+- `protocol/` - EIPs, protocol upgrades, consensus mechanisms, execution layer
 - `scaling/` - Layer 2, rollups, sharding
-- `protocol/` - EIPs, protocol upgrades
-- `economics/` - Tokenomics, MEV, gas
 - `security/` - Audits, vulnerabilities, best practices
+- `privacy/` - Privacy features, zero-knowledge proofs, privacy protocols
 - `tools/` - Development tools, wallets, infrastructure
 - `general/` - General information and overviews
 

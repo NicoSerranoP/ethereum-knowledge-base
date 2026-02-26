@@ -23,12 +23,10 @@ ethereum-knowledge-base/
 │   └── article-template.md    # Template for new articles
 └── articles/
     ├── README.md              # Articles directory guide
-    ├── consensus/             # Consensus mechanisms, validators
-    ├── execution/             # EVM, transactions, smart contracts
+    ├── protocol/              # EIPs, protocol upgrades, consensus, execution
     ├── scaling/               # Layer 2, rollups, sharding
-    ├── protocol/              # EIPs, protocol upgrades
-    ├── economics/             # Tokenomics, MEV, gas
     ├── security/              # Audits, vulnerabilities
+    ├── privacy/               # Privacy features, ZK proofs
     ├── tools/                 # Development tools, infrastructure
     └── general/               # General information
 ```

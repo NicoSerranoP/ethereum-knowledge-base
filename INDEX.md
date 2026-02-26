@@ -6,31 +6,28 @@ This file serves as a central catalog of all articles in the knowledge base. Art
 
 ## Table of Contents
 
-- [Consensus](#consensus)
-- [Execution](#execution)
-- [Scaling](#scaling)
 - [Protocol](#protocol)
-- [Economics](#economics)
+- [Scaling](#scaling)
 - [Security](#security)
+- [Privacy](#privacy)
 - [Tools](#tools)
 - [General](#general)
 
 ---
 
-## Consensus
+## Protocol
 
-*Articles about consensus mechanisms, validators, proof-of-stake, etc.*
+*Articles about EIPs, protocol upgrades, consensus mechanisms, execution layer, governance, etc.*
 
-### [The Merge: Ethereum's Transition to Proof-of-Stake](articles/consensus/the-merge-pos-transition.md)
+### [The Merge: Ethereum's Transition to Proof-of-Stake](articles/protocol/the-merge-pos-transition.md)
 - **Description**: An overview of Ethereum's historic transition from Proof-of-Work to Proof-of-Stake, explaining the technical changes and their implications.
 - **Tags**: `consensus`, `pos`, `proof-of-stake`, `merge`, `ethereum-roadmap`
 - **Date**: 2024-01-16
 
----
-
-## Execution
-
-*Articles about the EVM, transactions, smart contracts, etc.*
+### [EIP-1559: Fee Market Change](articles/protocol/eip-1559-fee-market.md)
+- **Description**: Understanding Ethereum's transaction fee mechanism that introduced base fees and burned ETH, fundamentally changing the economics of the network.
+- **Tags**: `eip`, `gas`, `economics`, `protocol-upgrade`, `eip-1559`
+- **Date**: 2024-01-16
 
 ---
 
@@ -40,26 +37,15 @@ This file serves as a central catalog of all articles in the knowledge base. Art
 
 ---
 
-## Protocol
-
-*Articles about EIPs, protocol upgrades, governance, etc.*
-
----
-
-## Economics
-
-*Articles about tokenomics, MEV, gas economics, etc.*
-
-### [EIP-1559: Fee Market Change](articles/economics/eip-1559-fee-market.md)
-- **Description**: Understanding Ethereum's transaction fee mechanism that introduced base fees and burned ETH, fundamentally changing the economics of the network.
-- **Tags**: `eip`, `gas`, `economics`, `protocol-upgrade`, `eip-1559`
-- **Date**: 2024-01-16
-
----
-
 ## Security
 
 *Articles about security audits, vulnerabilities, best practices, etc.*
+
+---
+
+## Privacy
+
+*Articles about privacy features, zero-knowledge proofs, privacy protocols, etc.*
 
 ---
 
@@ -99,6 +85,9 @@ A quick reference of all tags used in the knowledge base:
 - `security` - Security-related content
 - `smart-contracts` - Smart contract development
 - `validators` - Validator operations
+- `privacy` - Privacy features and protocols
+- `zk` - Zero-knowledge proofs
+- `zk-rollup` - ZK rollups
 
 ---
 
@@ -115,4 +104,4 @@ A quick reference of all tags used in the knowledge base:
 
 **Total Articles**: 2
 
-*Last Updated*: 2024-01-16
+*Last Updated*: 2026-02-26

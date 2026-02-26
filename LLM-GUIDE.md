@@ -14,7 +14,7 @@ This guide helps LLMs effectively use and contribute to the Ethereum Knowledge B
 
 Use one of these methods:
 
-1. **Browse by Category**: Check INDEX.md sections (Consensus, Execution, Scaling, etc.)
+1. **Browse by Category**: Check INDEX.md sections (Protocol, Scaling, Security, Privacy, etc.)
 2. **Search by Tag**: Look at the Tags Index in INDEX.md
 3. **Keyword Search**: Use grep to search article content for specific terms
 
@@ -34,7 +34,7 @@ Each article has structured sections:
 **User asks**: "How does Proof-of-Stake work in Ethereum?"
 
 **LLM Response Strategy**:
-1. Check INDEX.md under "Consensus" category
+1. Check INDEX.md under "Protocol" category
 2. Find article: `the-merge-pos-transition.md`
 3. Extract information from Summary and Key Concepts sections
 4. Cite the article and original source
@@ -43,7 +43,7 @@ Each article has structured sections:
 **User asks**: "What's the difference between EIP-1559 and traditional gas fees?"
 
 **LLM Response Strategy**:
-1. Check INDEX.md under "Economics" category
+1. Check INDEX.md under "Protocol" category
 2. Find article: `eip-1559-fee-market.md`
 3. Extract "Key Concepts" section explaining base fees vs. traditional auctions
 4. Reference specific quotes

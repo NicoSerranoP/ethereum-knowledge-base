@@ -37,12 +37,10 @@ If you're an LLM agent creating a PR to add a new article:
 
 Choose the most appropriate category for your article:
 
-- **consensus/**: Consensus mechanisms, validators, staking, proof-of-stake
-- **execution/**: EVM, transactions, smart contracts, opcodes
+- **protocol/**: EIPs, protocol upgrades, hard forks, consensus mechanisms, execution layer, governance
 - **scaling/**: Layer 2, rollups, sharding, state channels
-- **protocol/**: EIPs, hard forks, protocol upgrades, governance
-- **economics/**: MEV, gas economics, tokenomics, incentive structures
 - **security/**: Security audits, vulnerabilities, best practices, attack vectors
+- **privacy/**: Privacy features, zero-knowledge proofs, privacy protocols, anonymity
 - **tools/**: Development tools, wallets, infrastructure, testing frameworks
 - **general/**: Overviews, introductions, multi-topic articles
 
@@ -95,23 +93,20 @@ If an article fits multiple categories, choose the primary focus.
 
 Use consistent, descriptive tags:
 
-### Consensus & Validation
+### Protocol
+- `protocol-upgrade`, `hard-fork`, `eip`, `governance`, `ethereum-roadmap`
 - `consensus`, `pos`, `pow`, `validators`, `staking`, `beacon-chain`, `merge`
-
-### Execution & Smart Contracts  
 - `evm`, `smart-contracts`, `solidity`, `vyper`, `opcodes`, `transactions`
+- `mev`, `gas`, `tokenomics`, `incentives`, `issuance`, `eip-1559`
 
 ### Scaling
 - `layer2`, `rollup`, `optimistic-rollup`, `zk-rollup`, `sharding`, `state-channel`
 
-### Protocol
-- `eip`, `protocol-upgrade`, `hard-fork`, `governance`, `ethereum-roadmap`
-
-### Economics
-- `mev`, `gas`, `tokenomics`, `incentives`, `issuance`, `eip-1559`
-
 ### Security
 - `security`, `audit`, `vulnerability`, `attack`, `best-practices`
+
+### Privacy
+- `privacy`, `zk`, `zero-knowledge`, `anonymity`, `encryption`
 
 ### Tools & Development
 - `devtools`, `wallet`, `infrastructure`, `testing`, `client`
