@@ -47,6 +47,11 @@ This file serves as a central catalog of all articles in the knowledge base. Art
 
 *Articles about privacy features, zero-knowledge proofs, privacy protocols, etc.*
 
+### [Beginner's Guide to Privacy](articles/privacy/beginners-guide-to-privacy.md)
+- **Description**: An introductory guide to understanding privacy in crypto and DeFi, covering why privacy matters on public blockchains and the tools and techniques available to protect it.
+- **Tags**: `privacy`, `beginner`, `anonymity`, `zk`, `overview`
+- **Date**: 2026-02-26
+
 ---
 
 ## Tools
@@ -102,6 +107,6 @@ A quick reference of all tags used in the knowledge base:
 
 ---
 
-**Total Articles**: 2
+**Total Articles**: 3
 
 *Last Updated*: 2026-02-26
