@@ -59,7 +59,7 @@ Questions to explore:
 
 ## Related Articles
 
-- [Article about The Merge] (articles/consensus/the-merge-pos-transition.md)
+- [Article about The Merge] (articles/protocol/the-merge-pos-transition.md)
 - [Article about MEV] (to be added)
 - [Article about Layer 2 scaling] (to be added)
 
