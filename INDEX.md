@@ -29,6 +29,11 @@ This file serves as a central catalog of all articles in the knowledge base. Art
 - **Tags**: `eip`, `gas`, `economics`, `protocol-upgrade`, `eip-1559`
 - **Date**: 2024-01-16
 
+### [Post-Quantum Migrations, Crypto Agility, and How to Prevent EIP-7932 from Failing](articles/protocol/post-quantum-migrations-crypto-agility-eip-7932.md)
+- **Description**: A discussion on Ethereum post-quantum migration strategy, crypto agility, and practical considerations to avoid EIP-7932 rollout failure.
+- **Tags**: `eip`, `security`, `cryptography`, `post-quantum`, `crypto-agility`
+- **Date**: 2026-03-05
+
 ---
 
 ## Scaling
@@ -72,10 +77,14 @@ A quick reference of all tags used in the knowledge base:
 - `eip-1559` - Specific to EIP-1559
 - `ethereum-roadmap` - Ethereum development roadmap
 - `gas` - Gas and transaction fees
+- `cryptography` - Cryptographic primitives and protocol security
+- `crypto-agility` - Ability to upgrade cryptographic schemes safely
 - `merge` - The Merge upgrade
 - `pos` - Proof of Stake
+- `post-quantum` - Quantum-resistant migration planning
 - `proof-of-stake` - Proof of Stake (alternative tag)
 - `protocol-upgrade` - Protocol upgrades and hard forks
+- `security` - Security-related content
 
 **Common Tags (add as articles are created):**
 - `evm` - Ethereum Virtual Machine
@@ -102,6 +111,6 @@ A quick reference of all tags used in the knowledge base:
 
 ---
 
-**Total Articles**: 2
+**Total Articles**: 3
 
-*Last Updated*: 2026-02-26
+*Last Updated*: 2026-03-05
